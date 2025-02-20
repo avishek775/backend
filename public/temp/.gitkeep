@@ -1,0 +1,2 @@
+New-Item -Path controllers, db, middlewares, models, routes, utils -ItemType Directory
+New-Item app.js, constants.js, index.js -ItemType File
